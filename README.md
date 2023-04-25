@@ -4,7 +4,7 @@ Source code and examples for the “Explicit Design” post series in my blog.
 
 In this 11-part (so far) series, we're be building a fictional currency converter application. Each post focuses on one specific topic:
 
-- [ ] Introduction: principles and constraints
+- [x] [Introduction: principles and constraints](https://bespoyasov.me/blog/explicit-design-series/)
 - [ ] Modeling the domain
 - [ ] Designing use cases and application core
 - [ ] Describing the UI as an “adapter” to the application
