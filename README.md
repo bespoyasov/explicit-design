@@ -8,7 +8,7 @@ In this 11-part (so far) series, we're be building a fictional currency converte
 - [x] [Modeling the domain](https://bespoyasov.me/blog/explicit-design-1/)
 - [x] [Designing use cases and application core](https://bespoyasov.me/blog/explicit-design-2/)
 - [x] [Describing the UI as an “adapter” to the application](https://bespoyasov.me/blog/explicit-design-3/)
-- [ ] Creating infrastructure to support use cases
+- [x] [Creating infrastructure to support use cases](https://bespoyasov.me/blog/explicit-design-4/)
 - [ ] Composing the application using hooks
 - [ ] Composing the application without hooks
 - [ ] Dealing with cross-cutting concerns
