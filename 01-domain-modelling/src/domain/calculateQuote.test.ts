@@ -17,8 +17,8 @@ describe("when given a base value and the current rate", () => {
   );
 
   it.each<TestCase>([
-    { base: 10, rate: 1.1, expected: 11 },
-    { base: 10, rate: 0.725, expected: 7.25 },
+    { base: 10, rate: 1.12, expected: 11.2 },
+    { base: 10, rate: 0.72, expected: 7.2 },
   ])(
     "should have a precision of two decimal places",
     ({ base, rate, expected }) =>
