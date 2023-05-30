@@ -1,0 +1,13 @@
+.input {
+  display: block;
+  width: 100%;
+  height: 5rem;
+
+  font-size: inherit;
+  padding-inline: 1rem;
+
+  background: white;
+  border: 0;
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.4);
+  border-radius: 2px;
+}

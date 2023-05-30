@@ -1,0 +1,11 @@
+.value {
+  font-size: 4rem;
+  font-weight: 700;
+}
+
+@media (max-width: 480px) {
+  .value {
+    font-size: 2rem;
+    line-height: 1;
+  }
+}
