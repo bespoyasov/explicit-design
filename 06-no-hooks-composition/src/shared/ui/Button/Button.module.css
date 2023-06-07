@@ -1,0 +1,52 @@
+.button {
+  all: unset;
+
+  display: block;
+  width: 100%;
+  text-align: center;
+  padding: 0.75rem;
+  padding-top: 0.9rem;
+  font-size: 2.5rem;
+  font-weight: 700;
+  background-color: #bddffe;
+  box-shadow: 3px 3px 0 rgba(0, 0, 0, 0.1);
+  border-radius: 2px;
+
+  cursor: pointer;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.button:focus-visible,
+.button:hover,
+.button:active,
+.button:disabled {
+  background-image: linear-gradient(
+    -45deg,
+    #ccb4db 0%,
+    #ccb4db 25%,
+    #ffc8dd 25%,
+    #ffc8dd 50%,
+    #ffafcc 50%,
+    #ffafcc 75%,
+    #a2d2ff 75%,
+    #a2d2ff
+  );
+}
+
+.button:focus-visible {
+  outline-color: Highlight;
+  outline-color: -webkit-focus-ring-color;
+  outline-style: auto;
+  outline-width: 1px;
+}
+
+.button:active {
+  box-shadow: none;
+  transform: translate(2px, 2px);
+}
+
+.button:disabled {
+  filter: grayscale(100%);
+  cursor: not-allowed;
+}

@@ -1,0 +1,9 @@
+.converter {
+  padding: 2rem;
+
+  display: grid;
+  gap: 2.5rem;
+
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 2rem;
+}
