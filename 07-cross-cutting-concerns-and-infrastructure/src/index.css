@@ -1,0 +1,76 @@
+:root {
+  font-family: "Josefin Sans", sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+input,
+textarea,
+button,
+select {
+  font-family: "Josefin Sans", sans-serif;
+}
+
+html {
+  font-size: 62.5%;
+  touch-action: manipulation;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 0.5rem 0;
+}
+
+h2 {
+  font-size: 2.5rem;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
+.reset,
+.reset > li {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.visually-hidden {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  overflow: hidden;
+  border: 0 !important;
+  opacity: 0;
+  clip: rect(1px 1px 1px 1px);
+  clip: rect(1px, 1px, 1px, 1px);
+}
+
+main {
+  width: 100%;
+  max-width: 560px;
+  height: 100vh;
+  height: 100dvh;
+
+  margin: auto;
+  padding: 2rem;
+
+  display: grid;
+  align-items: center;
+  gap: 2rem;
+}

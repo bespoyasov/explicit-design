@@ -11,7 +11,7 @@ In this 11-part (so far) series, we're be building a fictional currency converte
 - [x] [Creating infrastructure to support use cases](https://bespoyasov.me/blog/explicit-design-4/)
 - [x] [Composing the application using hooks](https://bespoyasov.me/blog/explicit-design-5/)
 - [x] [Composing the application without hooks](https://bespoyasov.me/blog/explicit-design-6/)
-- [ ] Dealing with cross-cutting concerns
+- [x] [Dealing with cross-cutting concerns](https://bespoyasov.me/blog/explicit-design-7/)
 - [ ] Extending functionality with a new feature
 - [ ] Decoupling features using events
 - [ ] Overview and preliminary conclusions
