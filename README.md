@@ -12,7 +12,7 @@ In this 11-part (so far) series, we're be building a fictional currency converte
 - [x] [Composing the application using hooks](https://bespoyasov.me/blog/explicit-design-5/)
 - [x] [Composing the application without hooks](https://bespoyasov.me/blog/explicit-design-6/)
 - [x] [Dealing with cross-cutting concerns](https://bespoyasov.me/blog/explicit-design-7/)
-- [ ] Extending functionality with a new feature
+- [x] [Extending functionality with a new feature](https://bespoyasov.me/blog/explicit-design-8/)
 - [ ] Decoupling features using events
 - [ ] Overview and preliminary conclusions
 
