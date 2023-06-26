@@ -2,7 +2,7 @@
 
 Source code and examples for the “Explicit Design” post series in my blog.
 
-In this 11-part (so far) series, we're be building a fictional currency converter application. Each post focuses on one specific topic:
+In this series, we're be building a fictional currency converter application. Each post focuses on one specific topic:
 
 - [x] [Introduction: principles and constraints](https://bespoyasov.me/blog/explicit-design-series/)
 - [x] [Modeling the domain](https://bespoyasov.me/blog/explicit-design-1/)
@@ -13,7 +13,7 @@ In this 11-part (so far) series, we're be building a fictional currency converte
 - [x] [Composing the application without hooks](https://bespoyasov.me/blog/explicit-design-6/)
 - [x] [Dealing with cross-cutting concerns](https://bespoyasov.me/blog/explicit-design-7/)
 - [x] [Extending functionality with a new feature](https://bespoyasov.me/blog/explicit-design-8/)
-- [ ] Decoupling features using events
+- [x] [Decoupling features using events](https://bespoyasov.me/blog/explicit-design-9/)
 - [ ] Overview and preliminary conclusions
 
 ## Repo Structure
