@@ -4,17 +4,17 @@ Source code and examples for the “Explicit Design” post series in my blog.
 
 In this series, we're be building a fictional currency converter application. Each post focuses on one specific topic:
 
-- [x] [Introduction: principles and constraints](https://bespoyasov.me/blog/explicit-design-series/)
-- [x] [Modeling the domain](https://bespoyasov.me/blog/explicit-design-1/)
-- [x] [Designing use cases and application core](https://bespoyasov.me/blog/explicit-design-2/)
-- [x] [Describing the UI as an “adapter” to the application](https://bespoyasov.me/blog/explicit-design-3/)
-- [x] [Creating infrastructure to support use cases](https://bespoyasov.me/blog/explicit-design-4/)
-- [x] [Composing the application using hooks](https://bespoyasov.me/blog/explicit-design-5/)
-- [x] [Composing the application without hooks](https://bespoyasov.me/blog/explicit-design-6/)
-- [x] [Dealing with cross-cutting concerns](https://bespoyasov.me/blog/explicit-design-7/)
-- [x] [Extending functionality with a new feature](https://bespoyasov.me/blog/explicit-design-8/)
-- [x] [Decoupling features using events](https://bespoyasov.me/blog/explicit-design-9/)
-- [ ] Overview and preliminary conclusions
+- [Introduction: principles and constraints](https://bespoyasov.me/blog/explicit-design-series/)
+- [Modeling the domain](https://bespoyasov.me/blog/explicit-design-1/)
+- [Designing use cases and application core](https://bespoyasov.me/blog/explicit-design-2/)
+- [Describing the UI as an “adapter” to the application](https://bespoyasov.me/blog/explicit-design-3/)
+- [Creating infrastructure to support use cases](https://bespoyasov.me/blog/explicit-design-4/)
+- [Composing the application using hooks](https://bespoyasov.me/blog/explicit-design-5/)
+- [Composing the application without hooks](https://bespoyasov.me/blog/explicit-design-6/)
+- [Dealing with cross-cutting concerns](https://bespoyasov.me/blog/explicit-design-7/)
+- [Extending functionality with a new feature](https://bespoyasov.me/blog/explicit-design-8/)
+- [Decoupling features using events](https://bespoyasov.me/blog/explicit-design-9/)
+- [Overview and preliminary conclusions](https://bespoyasov.me/blog/explicit-design-10/)
 
 ## Repo Structure
 
@@ -24,11 +24,12 @@ We're building the application step by step. Each post refers to a separate fold
 
 In addition, I have an idea to extend the series with a few related posts on similar topics:
 
-- Applicability of everything described with frameworks (e.g., Next.js)
-- Improving type safety with type branding (e.g., for more vivid DDD)
-- Code splitting, routing, and performance (e.g., using `Suspense` and `use`)
-- Functional error handling (e.g., with `Result<TOk, TErr>`)
-- Applicability with other UI libraries (e.g., Solid or Svelte)
+- [ ] Applicability of the approach with frameworks like Next.
+- [ ] A more detailed dive into functional DDD.
+- [ ] Type safety and type branding.
+- [ ] Code-splitting, routing, and performance with React 18.
+- [ ] Error handling in a functional way.
+- [ ] Use with other JS libraries like Solid or Svelte.
 
 If you want to see another particular topic in the list, feel free to ping me in [issues](https://github.com/bespoyasov/explicit-design/issues)! 👋
 
