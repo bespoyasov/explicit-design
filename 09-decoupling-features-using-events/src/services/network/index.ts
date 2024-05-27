@@ -1,1 +1,1 @@
-export * from "./network.fetch";
+export * from "./network.fake";
