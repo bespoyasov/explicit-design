@@ -3,4 +3,4 @@ import { refreshRates } from "../../core/refreshRates";
 import { asCommand } from "~/shared/infrastructure/cqs";
 
 export const RefreshRates = () =>
-  Component({ useRefreshRates: asCommand(refreshRates, ["refresh"]) });
+  Component({ useRefreshRates: asCommand(refreshRates, "refresh") });
